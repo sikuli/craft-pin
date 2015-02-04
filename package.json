@@ -10,9 +10,9 @@
         "type": "git",
         "url": "https://github.com/sikuli/craft-pin"
     },
-    "files": {
-      "index.xml"
-    },
+    "files": [
+        "index.xml"
+    ],
     "author": "Tom Yeh",
-    "license": "MIT",
+    "license": "MIT"
 }
